@@ -1,4 +1,4 @@
-package day05;
+package day05_6;
 
 import javax.swing.*;
 import java.awt.*;

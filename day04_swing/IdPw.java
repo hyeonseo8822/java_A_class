@@ -1,4 +1,4 @@
-package day04;
+package day04_swing;
 
 import java.util.HashMap;
 import java.util.Scanner;
